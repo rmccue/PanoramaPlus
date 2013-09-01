@@ -9,5 +9,7 @@
   "dependencies": [
   	"toolbarwidget",
   	"panorama"
-  ]
+  ],
+
+  "homepage": "https://github.com/rmccue/PanoramaPlus"
 }
