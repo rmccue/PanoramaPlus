@@ -5,7 +5,7 @@
 	"description": "Add tools for handling Tab Groups",
 	"author": "Ryan McCue",
 	"license": "MPL 2.0",
-	"version": "0.1",
+	"version": "0.2",
 	"dependencies": [
 		"toolbarwidget",
 		"panorama"
