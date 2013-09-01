@@ -1,15 +1,15 @@
 {
-  "name": "panorama-plus",
-  "fullName": "Panorama Plus",
-  "id": "panoramaplus@ryanmccue.info",
-  "description": "Add tools for handling Tab Groups",
-  "author": "Ryan McCue",
-  "license": "MPL 2.0",
-  "version": "0.1",
-  "dependencies": [
-  	"toolbarwidget",
-  	"panorama"
-  ],
+	"name": "panorama-plus",
+	"fullName": "Panorama Plus",
+	"id": "panoramaplus@ryanmccue.info",
+	"description": "Add tools for handling Tab Groups",
+	"author": "Ryan McCue",
+	"license": "MPL 2.0",
+	"version": "0.1",
+	"dependencies": [
+		"toolbarwidget",
+		"panorama"
+	],
 
-  "homepage": "https://github.com/rmccue/PanoramaPlus"
+	"homepage": "https://github.com/rmccue/PanoramaPlus"
 }
