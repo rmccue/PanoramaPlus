@@ -1,0 +1,6 @@
+[submodule "packages/panorama"]
+	path = packages/panorama
+	url = git@github.com:rmccue/firefox-sdk-panorama.git
+[submodule "packages/toolbarwidget"]
+	path = packages/toolbarwidget
+	url = git@github.com:Rob--W/toolbarwidget-jplib.git
